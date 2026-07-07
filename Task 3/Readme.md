@@ -140,7 +140,7 @@ This project teaches:
 ### 👨‍💻 Author
 Kethari Bharath Simha Reddy <br>
 Python Developer • ML Enthusiast • Automation Lover<br>
-Contact me : maddoxer143@gmail.com
+
 
 ### 📜 License
 This project is Open Source.<br>
